@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732793891 source:c:\users\doaa gamal\desktop\nada\day7_oop_complex\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
